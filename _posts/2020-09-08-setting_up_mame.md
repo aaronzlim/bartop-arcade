@@ -17,5 +17,5 @@ However, our search was not too bad, and getting the ROMS setup on the Pi was as
 The result:
 
 <div style="text-align: center">
-    <img src="{{site.baseurl}}/assets/1 Setting Up MAME/img/claudia-with-ps4-controller.jpg" alt="Using MAME for the first time"/>
+    <img src="{{site.baseurl}}/assets/2020-09-08-setting_up_mame/claudia-with-ps4-controller.jpg" alt="Using MAME for the first time"/>
 </div>

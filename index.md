@@ -5,7 +5,7 @@
 layout: home
 ---
 <div style="text-align: center">
-    <img src="{{site.baseurl}}/assets/home/img/tegan-helping-1.jpg" alt="Tegan helping" height=150/>
-    <img src="{{site.baseurl}}/assets/home/img/tegan-helping-2.jpg" alt="Tegan helping" height=150/>
-    <img src="{{site.baseurl}}/assets/home/img/tegan-helping-3.jpg" alt="Tegan helping" height=150/>
+    <img src="{{site.baseurl}}/assets/home/tegan-helping-1.jpg" alt="Tegan helping" height=150/>
+    <img src="{{site.baseurl}}/assets/home/tegan-helping-2.jpg" alt="Tegan helping" height=150/>
+    <img src="{{site.baseurl}}/assets/home/tegan-helping-3.jpg" alt="Tegan helping" height=150/>
 </div>
